@@ -1,0 +1,2 @@
+# cap-platform-entities
+Entities

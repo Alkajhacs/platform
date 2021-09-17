@@ -1,0 +1,3 @@
+[submodule "cap-platform-framework"]
+	path = cap-platform-framework
+	url = https://github.com/Praveenraj3537/cap-platform-framework.git
